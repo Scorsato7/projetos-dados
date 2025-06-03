@@ -21,3 +21,13 @@ Análise Espacial de um dataset público que contém dados de anúncios de imóv
 Aplicação que permite a leitura de arquivos de extrato do FGTS e gerá insights financeiros através de gráficos.
 
 <a href="https://medium.com/@thiago.scorsato/extração-de-dados-extrato-do-fgts-9f1942f4c757" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+
+### Ferramentas Utilizadas
+<a href="https://code.visualstudio.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" target="_blank"></a>
+<a href="https://www.python.org" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank"></a>
+
+<a href="https://pandas.pydata.org" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" target="_blank"></a>
+<a href="https://pypi.org/project/pdfplumber/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/PdfPlumber-ba403c?style=for-the-badge" target="_blank"></a>
+<a href="https://numpy.org" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" target="_blank"></a>
+<a href="https://docs.streamlit.io" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" target="_blank"></a>
+<a href="https://plotly.com/python/plotly-express/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" target="_blank"></a>
