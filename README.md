@@ -1,2 +1,10 @@
-# projetos-dados
-Portfólio de projetos voltados à Análise de Dados.
+# Portfólio de projetos voltados à Análise de Dados
+Neste repositório irá encontrar projetos de análise de dados que desenvolvi com o intuito de compartilhar os resultados de meus estudos na área.
+
+## [Airbnbs no Rio de Janeiro em 2024](https://github.com/Scorsato7/airbnb-rj)
+Análise Espacial de um dataset público que contém dados de anúncios de imóveis na cidade do Rio de Janeiro em 2024.
+
+<a href="https://medium.com/@thiago.scorsato/análise-espacial-airbnbs-no-rio-de-janeiro-em-2024-e3623c37910e" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+
+## [Leitor de Extrato do FGTS](https://github.com/Scorsato7/extrato-fgts)
+Aplicação que permite a leitura de arquivos de extrato do FGTS e gerá insights financeiros através de gráficos.
