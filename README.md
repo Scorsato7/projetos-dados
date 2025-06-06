@@ -3,6 +3,9 @@ Neste repositório irá encontrar projetos de análise de dados que desenvolvi c
 
 OBS: Clique nos títulos para ser redirecionado ao código fonte dos projetos.
 
+## [Acidentes de Trânsito na Austrália (1989-2021)](https://github.com/Scorsato7/australia-crash)
+Análise Exploratória de um dataset público que contém dados de acidentes de trânsito ocorridos na Austrália entre 1989 a 2021.
+
 ## [Airbnbs no Rio de Janeiro em 2024](https://github.com/Scorsato7/airbnb-rj)
 Análise Espacial de um dataset público que contém dados de anúncios de imóveis na cidade do Rio de Janeiro em 2024.
 
