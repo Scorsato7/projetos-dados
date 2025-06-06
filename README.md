@@ -1,4 +1,4 @@
-# Portfólio de projetos voltados à Análise de Dados
+# Portfólio de projetos de Análise de Dados
 Neste repositório irá encontrar projetos de análise de dados que desenvolvi com o intuito de compartilhar os resultados de meus estudos na área.
 
 OBS: Clique nos títulos para ser redirecionado ao código fonte dos projetos.
