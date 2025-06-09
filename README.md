@@ -6,6 +6,17 @@ OBS: Clique nos títulos para ser redirecionado ao código fonte dos projetos.
 ## [Acidentes de Trânsito na Austrália (1989-2021)](https://github.com/Scorsato7/australia-crash)
 Análise Exploratória de um dataset público que contém dados de acidentes de trânsito ocorridos na Austrália entre 1989 a 2021.
 
+![HeatMap](https://imgur.com/vZSGkcY.png)
+
+### Ferramentas Utilizadas
+<a href="https://www.python.org" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" target="_blank"></a>
+<a href="https://jupyter.org" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Jupyter-FE7A16?style=flat&logo=jupyter&logoColor=white" target="_blank"></a>
+
+<a href="https://pandas.pydata.org" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" target="_blank"></a>
+<a href="https://matplotlib.org" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" target="_blank"></a>
+<a href="https://seaborn.pydata.org" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Seaborn-455396?style=flat&logo=circle&logoColor=white" target="_blank"></a>
+<a href="https://scitools.org.uk/cartopy/docs/latest/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Cartopy-50a9c7?style=flat&logo=googlemaps&logoColor=white&color=50a9c7" target="_blank"></a>
+
 ## [Airbnbs no Rio de Janeiro em 2024](https://github.com/Scorsato7/airbnb-rj)
 Análise Espacial de um dataset público que contém dados de anúncios de imóveis na cidade do Rio de Janeiro em 2024.
 
