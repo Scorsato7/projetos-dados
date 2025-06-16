@@ -6,6 +6,9 @@ OBS: Clique nos títulos para ser redirecionado ao código fonte dos projetos.
 ## [Acidentes de Trânsito na Austrália (1989-2021)](https://github.com/Scorsato7/australia-crash)
 Análise Exploratória de um dataset público que contém dados de acidentes de trânsito ocorridos na Austrália entre 1989 a 2021.
 
+<a href="https://www.kaggle.com/datasets/deepcontractor/australian-fatal-car-accident-data-19892021" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Kaggle-20bbf9?style=flat&logo=kaggle&logoColor=white" target="_blank"></a>
+<a href="https://medium.com/@thiago.scorsato/análise-exploratória-de-acidentes-de-trânsito-na-austrália-edb0233824ae" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" target="_blank"></a>
+
 ![HeatMap](https://imgur.com/vZSGkcY.png)
 
 ### Ferramentas Utilizadas
